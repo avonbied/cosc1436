@@ -1,0 +1,37 @@
+## Under other solution : New Project : Project# (1)
+## Name Source1.cpp
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	....
+	cout << "My email is: W212007337@student.hccs.edu" << endl;
+	cout << "My major is Computer Science" << endl;
+	system("pause");
+	return(0);
+}
+
+## Project2
+
+...
+	cout << "Today is August 28, 2019" << endl;
+
+
+## 082819Von...
+/*
+TOP DOCUMENTATION
+Programmer: Lex von Biedenfeld
+Filename: Source.cpp
+Date: 8/28/19
+Description: This program prints my name and phone number
+*/
+ 
+...
+
+/*
+OUTPUT
+<Put Console Output Here>
+*/
+
+## REPEAT FOR OTHER SOURCE FILES
