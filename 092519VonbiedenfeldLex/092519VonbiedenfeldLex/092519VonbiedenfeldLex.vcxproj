@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2CF4272C-9D27-406A-BEFA-DBE2CF00CC10}</ProjectGuid>
-    <RootNamespace>My091619VonbiedenfeldLex</RootNamespace>
+    <ProjectGuid>{64C5436E-BC1C-4A29-B256-7D4F458523E5}</ProjectGuid>
+    <RootNamespace>My092519VonbiedenfeldLex</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
